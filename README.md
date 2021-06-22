@@ -5,5 +5,5 @@ Today I bought very cheap CSR Bluetooth 5.0 USB Dongle for less than 2$ (IDR 17,
 
 So I created a new one that can run on BigSur. This kext is just Info.plist which adjusts *vendor id* and *product id* of USB Donggle. if your CSR Bluetooth USB Dongle still doesn't work maybe you can adjust the *vendor id* and *product id* in this kext.
 
-Tested on MacOS Big Sur 11.4
+Tested on MacOS Big Sur 11.4 - USB 2.0
 
