@@ -1,7 +1,9 @@
 # CSRBluetoothBigSur
 USB CSR Bluetooth Injection Driver for MacOS BigSur
 
-This kext is just Info.plist which adjusts *vendor id* and *product id* of USB Dongle. if your CSR Bluetooth USB Dongle still doesn't work maybe you can adjust the *vendor id* and *product id* in this kext.
+This kext is just Info.plist which adjusts *vendor id* and *product id* of USB Dongle. if your CSR Bluetooth USB Dongle still doesn't work maybe you can adjust the *vendor id* and *product id* in "info.plist" -> "IOKitPersonalities" -> "CSR50"
+
+
 
 Tested on MacOS Big Sur 11.4 - USB 2.0
 
