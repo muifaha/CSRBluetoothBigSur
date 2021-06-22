@@ -1,5 +1,5 @@
 # CSRBluetoothBigSur
-Kext for cheap USB Dongle CSR Bluetooth v5.0 in MacOS Big Sur
+USB CSR Bluetooth Injection Driver for MacOS BigSur
 
 Today I bought very cheap CSR Bluetooth 5.0 USB Dongle for less than 2$ (IDR 17,000,-). When I plug it into Ryzentosh, the usb bluethooth device is read on USB and in Hackintool but it doesn't read as Bluethoot device. After googling I found a kext USB CSR Injection Driver https://www.insanelymac.com/forum/topic/307181-csrapplebluetoothkext-usb-csr-injection-driver/?ct=1624345620 but it doesn't work in BigSur.
 
